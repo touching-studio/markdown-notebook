@@ -1,0 +1,7 @@
+{
+  "name": "markdown-notebook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
